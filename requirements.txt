@@ -3,7 +3,6 @@ asgiref==3.7.2
 cssselect2==0.7.0
 dj-database-url==2.0.0
 Django==4.0.4
-psycopg2-binary~=2.9.3
 django-admin-interface==0.19.1
 django-appconf==1.0.5
 django-colorfield==0.7.1
