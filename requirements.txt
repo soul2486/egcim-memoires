@@ -18,4 +18,3 @@ PyYAML==6.0.1
 six==1.16.0
 sqlparse==0.4.2
 python-decouple==3.6
-pytz==2022.5
